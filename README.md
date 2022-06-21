@@ -17,7 +17,7 @@ _Criando o Primeiro Repositório do Desafio da Dio._
 
 3. Aperfeiçoar as técnicas nos repositórios.
 
-_**Duração mínima de cada estudo de 2 horas por dia após o trabalho.**_
+_**Duração mínima de cada estudo de 3 horas por dia após o trabalho.**_
 
 - [Link Digital Innovation One](https://web.dio.me/home)
 
